@@ -92,3 +92,5 @@
 #import <AsyncDisplayKit/AsyncDisplayKit+Debug.h>
 
 #import <AsyncDisplayKit/ASCollectionNode+Beta.h>
+
+#import <AsyncDisplayKit/ASBatchFetching.h>
